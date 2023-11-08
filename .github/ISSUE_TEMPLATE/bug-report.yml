@@ -82,7 +82,7 @@ body:
     id: browser-driver-versions
     attributes:
       label: What are the browser driver(s) and version(s) where you see this issue?
-      description: What browser driver(s) are you using?
+      description: OOOOOOOOOGGAAA BOOOOGAAA Browser driver(s) are you using?
       placeholder: Example - ChromeDriver 94.0.4606.61, GeckoDriver 0.30.0, etc.
     validations:
       required: true
